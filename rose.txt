@@ -1,0 +1,1 @@
+https://roseaws.s3.us-east-2.amazonaws.com/helloworld.txt
